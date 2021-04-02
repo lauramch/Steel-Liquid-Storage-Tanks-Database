@@ -1,2 +1,2 @@
 # Steel-Liquid-Storage-Tanks-Database
-Open-source database of steel liquid storage tanks data
+Dataset of steel liquid storage tanks data used for ISEC 11 conference
